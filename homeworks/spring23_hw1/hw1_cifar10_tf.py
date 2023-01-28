@@ -30,7 +30,7 @@ if __name__ == '__main__':
     wandb.init(
         project="hw1_spring2023",  # Leave this as 'hw1_spring2023'
         entity="bu-spark-ml",  # Leave this
-        group="<your_BU_username>",  # <<<<<<< Put your BU username here
+        group="tgardos",  # <<<<<<< Put your BU username here
         notes="Minimal model"  # <<<<<<< You can put a short note here
     )
 
